@@ -4,3 +4,4 @@
 2. Network In Network,2013,Min Lin,Qiang Chen,Shuicheng Yan
 3. Inception network paper - Going deeper with convolutions,2014
 4. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,2017
+5. MobileNetV2: Inverted Residuals and Linear Bottlenecks,2019
