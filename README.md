@@ -6,3 +6,4 @@
 4. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,2017
 5. MobileNetV2: Inverted Residuals and Linear Bottlenecks,2019
 6. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,2020
+7. Densely Connected Convolutional Networks,2018
